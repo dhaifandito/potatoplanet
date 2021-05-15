@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/potatoplanet/static/css/main.73998875.chunk.css",
+    "main.js": "/potatoplanet/static/js/main.18e79518.chunk.js",
+    "main.js.map": "/potatoplanet/static/js/main.18e79518.chunk.js.map",
+    "runtime-main.js": "/potatoplanet/static/js/runtime-main.084c94bb.js",
+    "runtime-main.js.map": "/potatoplanet/static/js/runtime-main.084c94bb.js.map",
+    "static/js/2.d3cf22ce.chunk.js": "/potatoplanet/static/js/2.d3cf22ce.chunk.js",
+    "static/js/2.d3cf22ce.chunk.js.map": "/potatoplanet/static/js/2.d3cf22ce.chunk.js.map",
+    "static/js/3.09795bfc.chunk.js": "/potatoplanet/static/js/3.09795bfc.chunk.js",
+    "static/js/3.09795bfc.chunk.js.map": "/potatoplanet/static/js/3.09795bfc.chunk.js.map",
+    "index.html": "/potatoplanet/index.html",
+    "static/css/main.73998875.chunk.css.map": "/potatoplanet/static/css/main.73998875.chunk.css.map",
+    "static/js/2.d3cf22ce.chunk.js.LICENSE.txt": "/potatoplanet/static/js/2.d3cf22ce.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/potatoplanet/static/media/space.1ed9d376.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.084c94bb.js",
+    "static/js/2.d3cf22ce.chunk.js",
+    "static/css/main.73998875.chunk.css",
+    "static/js/main.18e79518.chunk.js"
+  ]
+}
